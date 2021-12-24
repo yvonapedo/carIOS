@@ -1,6 +1,7 @@
 # carIOS
 
-Computer science and technology in grade 2018
+CST 2018
+
 IOS Development Technology
 Final project examination
 
@@ -8,6 +9,7 @@ Final project examination
 
 1. Project description
 1.1 Project purpose (why do you do this project)
+
 My iOS project is a “KOMI.” application that is purposed to link people all over the world. It’s a Car selling app. That allows users to post cars for sale and allow other users to buy or borrow it.
 First, you need to sign up(register) using your username and a password. Then you can login using your USERID and the PASSWORD you just created. If it’s correct, Login will be successful.
 Second, you see all the available cars on the homepage. You also view details of every car posted. You can also add new cars for other users to see. 
